@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\bin\Debug\netcoreapp3.1\CodeWar.exe
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\bin\Debug\netcoreapp3.1\CodeWar.deps.json
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\bin\Debug\netcoreapp3.1\CodeWar.runtimeconfig.json
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\bin\Debug\netcoreapp3.1\CodeWar.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\bin\Debug\netcoreapp3.1\CodeWar.dll
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\bin\Debug\netcoreapp3.1\CodeWar.pdb
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\obj\Debug\netcoreapp3.1\CodeWar.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\obj\Debug\netcoreapp3.1\CodeWar.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\obj\Debug\netcoreapp3.1\CodeWar.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\obj\Debug\netcoreapp3.1\CodeWar.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\obj\Debug\netcoreapp3.1\CodeWar.dll
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\obj\Debug\netcoreapp3.1\CodeWar.pdb
+C:\Users\User\Documents\GitHub\CodeWar\CodeWar\obj\Debug\netcoreapp3.1\CodeWar.genruntimeconfig.cache
